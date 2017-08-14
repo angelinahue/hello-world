@@ -1,2 +1,4 @@
 # hello-world
-intro/test
+Hello! Angelina here.
+
+Testing GitHub and the repository!
